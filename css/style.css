@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(54, 54, 54);
+    color: white
+}
+
+.egen {
+    background-color: white;
+    color: rgb(255, 91, 91)
+}
+
+nav a {
+    color: green
+}
+
+h1 {
+    background-color: lightgray;
+    color: red;
+}
+
+section::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+article {
+    float: left;
+    width: 33.33%;
+    background-color: aqua;
+    padding: 19px;
+}
