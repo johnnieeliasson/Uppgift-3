@@ -4,3 +4,4 @@
 3. Create an external css file in a folder named style, and link it in the head element
 4. Why is the text "Section 1", placed inside a section smaller than the text "Positioning CSS" in the header since both are placed in a h1? Change so they are equal, when you understand the answer.
 5. Position the content according to the wireframe of the task, only use diplay, float and position
+![A wirefram for the task]()
