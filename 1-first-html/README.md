@@ -7,7 +7,7 @@
   - head
   - body
   - header
-- [ ] Place all necessary meta-tags inside de head, inkluding webbpage-name, descritption, etc
+- [ ] Place all necessary meta-tags inside de head, inkluding webbpage-name, description, etc
 - [ ] Create the following content, inside correct element
   - a heading inside the header-element, with the text "Home"
   - three longer text (max 250 words, lorem ipsum), with headings
