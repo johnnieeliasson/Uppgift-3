@@ -1,4 +1,4 @@
-# Exercise 1: First HTML
+# Exercise 1: First HTML page
 
 - [ ] Create a new file called index.html
 - [ ] Create the following elements
