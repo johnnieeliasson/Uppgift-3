@@ -1,5 +1,5 @@
 # Exercise 1: First HTML page
-Feel free to experiment with more awsome html-details.
+Feel free to experiment with more awesome html element and attribute.
 ## Startpage
 - [ ] Create a new file called index.html
 - [ ] Create the following elements
