@@ -1,6 +1,8 @@
 # Exercise 1: First HTML page
 
-Feel free to experiment with more awesome html element and attribute. Do *not* use CSS for this task.
+Feel free to experiment with more awesome html element and attribute.
+
+> Do *not* use CSS or JavaScript for this task.
 
 ## Startpage
 
