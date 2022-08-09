@@ -6,5 +6,5 @@
 5. Position the content according to the wireframe of the task, only use diplay, float and position
 ## A lofi wireframe
 ![A wireframe for the task](lofi-wireframe.jpg)
-## A hifi (well ...) wireframe
+## A more (!) hifi wireframe
 ![Another wireframe for the task](hifi-wireframe.jpg)
