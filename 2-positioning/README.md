@@ -1,4 +1,4 @@
-# Exersise 2: positioning
+# Exersise 3: CSS positioning
 1. Clone the excersise and open DevTools for warnings/errors. Correct the errors (meta tags). Ignore if JavaScript errors appears.
 2. Add other necessary meta tags like author, description, keywords, etc
 3. Create an external css file in a folder named style, and link it in the head element
