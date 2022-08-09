@@ -1,4 +1,5 @@
 # Exercise 1: First HTML page
+Feel free to experiment with more awsome html-details.
 ## Startpage
 - [ ] Create a new file called index.html
 - [ ] Create the following elements
@@ -25,7 +26,10 @@
   - a lastname label and an input
   - a message label and a textarea
   - a submit and a reset button
-  ## A poosible solution
+# A possible solution
+## A start page
 ![A start page](images/startsida.jpg)
+## A contact page
 ![A contact page](images/kontaktsida.jpg)
+## A close-up on the form
 ![A close-up on the form](images/form.jpg)
