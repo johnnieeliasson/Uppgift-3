@@ -27,7 +27,7 @@ Feel free to experiment with more awesome html element and attribute. Do *not* u
 - [ ] Delete the images, and replace with one new
 - [ ] In the contact-file, create a form with at least the following
   - set action to "mailto:firstname.lastname@mymail.eu"
-  - a name label and an input
+  - a firstname label and an input
   - a lastname label and an input
   - a message label and a textarea
   - a submit and a reset button

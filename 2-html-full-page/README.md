@@ -1,11 +1,11 @@
-# Exercise 2: A small webpage with only HTML
+# Exercise 2: A small webbpage made of HTML
 
 The task is to make a small webbsite, with only HTML. You can use the pages in exercise 1 to build from, or its is a better challange if you guild it from scratch.
 And, feel free to experiment with more awesome html element and attribute. Do *not* use CSS or JavaScript for this task.
 
 ## Start-page
 
-### from previous task
+### ... from previous task
 
 - [ ] Create a new file called index.html
 - [ ] Create the following elements
@@ -15,6 +15,7 @@ And, feel free to experiment with more awesome html element and attribute. Do *n
   - body
 - [ ] Place all necessary meta-tags inside the head, inkluding webbpage-name, description, etc
 - [ ] Create the following content, inside correct element
+  - a menu, with two links one called home and and one called contact
   - a header
   - a heading inside the header-element, with the text "Home"
   - a menu, with two links one called home and and one called contact
@@ -28,6 +29,8 @@ And, feel free to experiment with more awesome html element and attribute. Do *n
   - download (or better: make one :)) a nice video from <https://www.pexels.com/sv-se/videos/>
   - use correct html syntax to add it to the startpage
   - the video should have the autoplay and muted attribute
+- [ ] Add a footer with suitable texts
+- [ ] Add the pages about.html and products (after they been created of course) to the menu, and make them work
 
 ## Contact page
 
@@ -39,7 +42,7 @@ And, feel free to experiment with more awesome html element and attribute. Do *n
 - [ ] Delete the images, and replace with one new
 - [ ] In the contact-file, create a form with at least the following
   - set action to "mailto:firstname.lastname@mymail.eu"
-  - a name label and an input
+  - a firstname label and an input
   - a lastname label and an input
   - a message label and a textarea
   - a submit and a reset button
@@ -48,5 +51,34 @@ And, feel free to experiment with more awesome html element and attribute. Do *n
 
 - [ ] Add an external video
   - Add a suitable video of your own choosing from Facebook using the iframe element
+- [ ] Add a footer with suitable texts
+- [ ] Add the pages about.html and products (after they been created of course) to the menu, and make them work
+
+## Products page
+
+- [ ] Create a new file called products.html
+- [ ] Create the following elements
+  - doctype
+  - html
+  - head
+  - body
+- [ ] Place all necessary meta-tags inside the head, inkluding webbpage-name, description, etc
+- [ ] Create a menu, with all the four pages working (index, products, about, contact)
+- [ ] Insert three pictures with productsr, choose photos from <https://www.pexels.com>. Each picture needs to be follow by information about the products name and price.
+- [ ] Add a footer with suitable texts
+
+## About page
+
+- [ ] Create a new file called about.html
+- [ ] Create the following elements
+  - doctype
+  - html
+  - head
+  - body
+- [ ] Place all necessary meta-tags inside the head, inkluding webbpage-name, description, etc
+- [ ] Create a menu, with all the four pages working (index, products, about, contact)
+- [ ] Insert three pictures of members from the border, choose photos from <https://www.pexels.com>, with names under each picture
+- [ ] Add a nice quote with the correct element. If you need inspiration, use <https://www.goodreads.com/quotes>
+- [ ] Add a footer with suitable texts
 
 ... but again, please feel free to add additional content.
