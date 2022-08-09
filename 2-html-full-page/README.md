@@ -1,8 +1,11 @@
-# Exercise 1: First HTML page
+# Exercise 2: A small webpage with only HTML
 
-Feel free to experiment with more awesome html element and attribute. Do *not* use CSS for this task.
+The task is to make a small webbsite, with only HTML. You can use the pages in exercise 1 to build from, or its is a better challange if you guild it from scratch.
+And, feel free to experiment with more awesome html element and attribute. Do *not* use CSS or JavaScript for this task.
 
-## Startpage
+## Start-page
+
+### from previous task
 
 - [ ] Create a new file called index.html
 - [ ] Create the following elements
@@ -16,10 +19,19 @@ Feel free to experiment with more awesome html element and attribute. Do *not* u
   - a heading inside the header-element, with the text "Home"
   - a menu, with two links one called home and and one called contact
   - three longer texts (max 250 words, lorem ipsum), with headings
-  - at least two images, where one is in a local folder and the other from a external page on Internet. Use your own images, or download from <https://www.pexels.com/>
+  - at least two images, where one is in a local folder and the other from a external page on Internet
   - a button with a link to another webpage on the Internet
 
+### New addition to the start-page
+
+- [ ] Add an internal video
+  - download (or better: make one :)) a nice video from <https://www.pexels.com/sv-se/videos/>
+  - use correct html syntax to add it to the startpage
+  - the video should have the autoplay and muted attribute
+
 ## Contact page
+
+### ... from previous task
 
 - [ ] Create a new file called contact.html
 - [ ] Copy-and-paste everything from your index.html file, but change the text in the heading inside the header-element to "Contact us".
@@ -32,18 +44,9 @@ Feel free to experiment with more awesome html element and attribute. Do *not* u
   - a message label and a textarea
   - a submit and a reset button
 
+### New addition to the contact-page
+
+- [ ] Add an external video
+  - Add a suitable video of your own choosing from Facebook using the iframe element
+
 ... but again, please feel free to add additional content.
-
-## A possible solution
-
-### A start page
-
-![A start page](images/startsida.jpg)
-
-### A contact page
-
-![A contact page](images/kontaktsida.jpg)
-
-### A close-up on the form
-
-![A close-up on the form](images/form.jpg)
