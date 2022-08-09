@@ -29,8 +29,8 @@ And, feel free to experiment with more awesome html element and attribute. Do *n
   - download (or better: make one :)) a nice video from <https://www.pexels.com/sv-se/videos/>
   - use correct html syntax to add it to the startpage
   - the video should have the autoplay and muted attribute
+- [ ] Add the pages about.html, products.html, and optional (see below for optional task) drawing.html to the menu, and make them work
 - [ ] Add a footer with suitable texts
-- [ ] Add the pages about.html and products (after they been created of course) to the menu, and make them work
 
 ## Contact page
 
@@ -51,8 +51,8 @@ And, feel free to experiment with more awesome html element and attribute. Do *n
 
 - [ ] Add an external video
   - Add a suitable video of your own choosing from Facebook using the iframe element
+- [ ] Add the pages about.html, products.html, and optional (see below for optional task) drawing.html to the menu, and make them work
 - [ ] Add a footer with suitable texts
-- [ ] Add the pages about.html and products (after they been created of course) to the menu, and make them work
 
 ## Products page
 
@@ -63,7 +63,9 @@ And, feel free to experiment with more awesome html element and attribute. Do *n
   - head
   - body
 - [ ] Place all necessary meta-tags inside the head, inkluding webbpage-name, description, etc
-- [ ] Create a menu, with all the four pages working (index, products, about, contact)
+  - a header
+  - a heading inside the header-element, with the text "Products"
+- [ ] Create a menu, with all the four pages working (index.html, products.html, about.html, contact.html and optional (see below for optional task): drawing.html)
 - [ ] Insert three pictures with productsr, choose photos from <https://www.pexels.com>. Each picture needs to be follow by information about the products name and price.
 - [ ] Add a footer with suitable texts
 
@@ -76,9 +78,27 @@ And, feel free to experiment with more awesome html element and attribute. Do *n
   - head
   - body
 - [ ] Place all necessary meta-tags inside the head, inkluding webbpage-name, description, etc
-- [ ] Create a menu, with all the four pages working (index, products, about, contact)
+  - a header
+  - a heading inside the header-element, with the text "About us"
+- [ ] Create a menu, with all the four pages working (index.html, products.html, about.html, contact.html and optional (see below for optional task): drawing.html)
 - [ ] Insert three pictures of members from the border, choose photos from <https://www.pexels.com>, with names under each picture
 - [ ] Add a nice quote with the correct element. If you need inspiration, use <https://www.goodreads.com/quotes>
 - [ ] Add a footer with suitable texts
 
 ... but again, please feel free to add additional content.
+
+## Optional: In-depth assignment
+
+> do only if you have time
+
+- [ ] Create a new file called drawing.html
+- [ ] Create the following elements
+  - doctype
+  - html
+  - head
+  - body
+- [ ] Place all necessary meta-tags inside the head, inkluding webbpage-name, description, etc
+  - a header
+  - a heading inside the header-element, with the text "A suggested logo"
+- [ ] Create a menu, with all the four other pages working (index, products, about, contact), and add drawing.html
+- [ ] Make a nice logo and add it to the page, with the use of the element svg, its children and their attributes. <https://www.w3schools.com/html/html5_svg.asp>
