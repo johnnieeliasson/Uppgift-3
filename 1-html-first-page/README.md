@@ -1,4 +1,8 @@
-# Exercise 1: First HTML page
+# 1 HTML | first page
+
+Pathname: 1-html-first-page
+
+The purpose of the exercise is to understand basic html syntax, initially how a menu works and how a most basic architecture (two separeate html-files) of a traditional web page is built. It also provides the opportunity to experiment with user input via forms.
 
 Feel free to experiment with more awesome html element and attribute.
 

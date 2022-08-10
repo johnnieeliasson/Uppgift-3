@@ -1,7 +1,10 @@
-# Exercise 2: A small webbpage made of HTML
+# 2 HTML | a minimal webbsite
 
-The task is to make a small webbsite, with only HTML. You can use the pages in exercise 1 to build from, or its is a better challange if you guild it from scratch.
-And, feel free to experiment with more awesome html element and attribute.
+Pathname: 2-html-small-webbsite
+
+The goal of the task is to create a small but, according to best practice, sufficient website with only html, where the architecture consists of a homepage and three subpages; index.html, products.html, about.html, contact.html
+
+And again, feel free to experiment with more awesome html element and attribute.
 
 > Do *not* use CSS or JavaScript for this task.
 
