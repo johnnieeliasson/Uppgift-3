@@ -1,7 +1,10 @@
 # Exercises and course submission for HTML & CSS
+
 Webbutvecklare inom .NET, Utbildningsnr YH00854, 30yhp.
 
-In each exercise/submission there is a README.md where more detailed instructions can be found.
+EC Utbildning <https://ecutbildning.se/utbildningar/webbutvecklare-inom-net/>
+
+In each exercise/submission there is a README where more detailed instructions can be found.
 
 ## 1 HTML | first page
 
@@ -27,13 +30,13 @@ Pathname: 4-animations-svg
 
 The aim of the exercise is to experiment with different graphical tools in CSS, properties like transform, transistion and animation. As an addition, it is also an opportunity to try using svg.
 
-## 5 CSS | Bootstrap
+## 5 CSS | bootstrap
 
 Pathname: 5-css-bootstrap
 
 Using various snippets, plugins and themes, the student will be able to understand and edit a website's CSS using Bootstrap.
 
-## 6 HTML & CSS | Course submission
+## 6 HTML & CSS | course submission
 
 Pathname: 6-course-submission
 

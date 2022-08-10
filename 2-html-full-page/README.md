@@ -1,7 +1,9 @@
 # Exercise 2: A small webbpage made of HTML
 
 The task is to make a small webbsite, with only HTML. You can use the pages in exercise 1 to build from, or its is a better challange if you guild it from scratch.
-And, feel free to experiment with more awesome html element and attribute. Do *not* use CSS or JavaScript for this task.
+And, feel free to experiment with more awesome html element and attribute.
+
+> Do *not* use CSS or JavaScript for this task.
 
 ## Start-page
 
