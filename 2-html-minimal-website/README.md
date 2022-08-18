@@ -4,7 +4,28 @@ Pathname: 2-html-small-webbsite
 
 The goal of the task is to create a small but, according to best practice, sufficient website with only html, where the architecture consists of a homepage and three subpages; index.html, products.html, about.html, contact.html
 
-And again, feel free to experiment with more awesome html element and attribute.
+## General instructions
+1. Structure the web pages with semantic elements
+- <header>
+- <nav>
+- <section>
+- <article>
+- <aside>
+2. At least the following elements must be used:
+- <a>
+- <p>
+- <h1>
+- <h2>
+- <ul> (optional <dl>)
+- <table> with <th>, <tr> and <td>
+3. There should be a form element, including the following sub-elements
+- <input>, including submit, reset, text, checkbox /or radio values
+- <select>
+- <textarea>
+- At least one <div> element and <span> element
+- At least one relevant comment per page
+
+Feel free to experiment with more awesome html element and attribute.
 
 > Do *not* use CSS or JavaScript for this task.
 
@@ -54,6 +75,9 @@ And again, feel free to experiment with more awesome html element and attribute.
 
 ### New addition to the contact-page
 
+- [ ] Add some sort of a drop-down list to the form usting <select> with <option>
+- [ ] Add a <fieldset> to the form
+- [ ] Add some checkboxes or radiobuttons to the form
 - [ ] Add an external video
   - Add a suitable video of your own choosing from Facebook using the iframe element
 - [ ] Add the pages about.html, products.html, and optional (see below for optional task) drawing.html to the menu, and make them work
@@ -92,7 +116,7 @@ And again, feel free to experiment with more awesome html element and attribute.
 
 ... but again, please feel free to add additional content.
 
-## Optional: In-depth assignment
+## Optional: In-depth assignment - Painting using svg
 
 > do only if you have time
 
