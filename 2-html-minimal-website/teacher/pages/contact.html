@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Rävar | kontaksida</title>
+    <meta name="description" content="An exercise in HTML">
+    <meta name="keywords" content="HTML exercise">
+    <meta name="author" content="Lars Berg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <header>
+        <h1>Kontakta oss</h1>
+        <nav>
+            <a href="../index.html">Startsida</a>
+            <a href="products.html">Produkter</a>
+            <a href="about.html">Om oss</a>
+            <a href="contact.html">Kontakt</a>
+        </nav>
+    </header>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ut dolor quod quos eligendi. Ipsam cumque nemo
+        reprehenderit nisi molestias.</p>
+    <h2>Rubrik 2: Kontakta oss </h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, expedita. Lorem, ipsum dolor sit amet
+        consectetur adipisicing elit. Ipsam quisquam sequi laboriosam nemo enim ducimus repellendus similique
+        unde modi? Laborum iure necessitatibus vitae harum non nesciunt quasi in repellat dolor perferendis
+        laudantium reiciendis eum vel, molestiae omnis! Necessitatibus et beatae aut animi sed.</p>
+    <form action="mailto:firstname.lastname@mymail.eu" name="Konktaktfomulär">
+        <fieldset>
+            <legend>Konktaktfomulär</legend>
+            <label for="fname">Ditt namn</label><br>
+            <input type="text" id="fname" name="fname" required><br>
+            <label for="email">Din mailadress</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+            <label for="message">Meddelande</label><br>
+            <textarea name="message" id="message" rows="10" cols="30">Ett meddelande ...</textarea><br><br>
+            <label for="age">Din ålder (du måste vara över 18 år för att bli medlem):</label>
+            <input type="number" id="age" name="age" min="18" max="120" required><br><br>
+            <label for="checkboxes">Min faovitras</label><br>
+            <input type="checkbox" id="fox1" name="vehicle1" value="Bike">
+            <label for="fox1"> Rödräv</label><br>
+            <input type="checkbox" id="fox2" name="vehicle2" value="Car">
+            <label for="fox2"> Polarräv</label><br>
+            <input type="checkbox" id="fox3" name="vehicle3" value="Boat">
+            <label for="fox3"> Ökenräv</label><br><br>
+            <label for="sub-start">Önskad prenumerationsstart:</label>
+            <input type="date" id="sub-start" name="sub-start"><br><br>
+            <button type="submit" value="submit">Skicka</button>
+            <button type="reset" value="reset">Radera</button>
+        </fieldset>
+    </form>
+    <p>Pariatur officia praesentium dicta, temporibus eius voluptatum provident nisi neque est ipsa, labore nostrum!
+        Quibusdam ducimus,
+        illo ad quasi optio officia repellat esse deserunt nostrum earum, laudantium reprehenderit
+        consectetur expedita blanditiis odit omnis quidem impedit non obcaecati ab atque cupiditate. Architecto
+        recusandae ipsa corrupti molestiae, quasi sed reprehenderit possimus vero, assumenda expedita dolorem ipsum,
+        sint deserunt optio.</p>
+    <figure>
+        <img src="../images/fox2.jpg" alt="A photo of a fox">
+        <figcaption>Bildtext: En lokalt länkad bild av en räv</figcaption>
+    </figure>
+    <footer>
+        <p>&copy; Rävklubben Rosen och Räven</p>
+    </footer>
+</body>
+
+</html>
