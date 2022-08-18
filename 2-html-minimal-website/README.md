@@ -93,9 +93,9 @@ Feel free to experiment with more awesome html element and attribute.
 
 ### New addition to the contact-page
 
-- [ ] Add some sort of a drop-down list to the form usting <select> with <option>
+- [ ] Add some sort of a drop-down list to the form usting select with option
 
-- [ ] Add a <fieldset> to the form
+- [ ] Add a fieldset to the form
 
 - [ ] Add some checkboxes or radiobuttons to the form
 
