@@ -4,6 +4,28 @@ Pathname: 3-css-positioning
 
 The purpose of the task is to experiment with basic layout tools in css, such as the box model, column layout, multi-columns, margins, padding, the properties display, float, clear, etc. Since bootstrap mainly builds on flex-box, the exercise also includes a part where the ability to practice this tool is included.
 
+## In addition to layout tools in css, the following must be implemented/included
+1. Documentation of the working process with wireframes for each individual website. The wireframes should be placed in a separate folder named wireframes
+2. All CSS rules must be contained in a separate style sheet file, where appropriate selectors and selector-rules should be used
+3. Images and background image should be used
+4. At least the following background properties, with *shorthands* where its appropriate, should be used in some way
+    1. background-color
+    2. background-image
+    3. background-repeat
+    4. background-position
+5. Google fonts
+
+1. This is a group effort, and as such uses github (and Live Share where appropriate).
+2. The teacher must be invited to your repo
+3. Your repo must include, in addition to all other files
+    1. README.md, where the website/project is described 
+    2. A file called logbook.md, a written account of who did what
+    3. Optional: .gitignore
+4. The entire task must be submitted in Omniway, by compressing the root folder (only zip or rar is accepted).
+5. Each group must also be prepared to present their work to the rest of the class
+
+The entire task must be submitted in Omniway, by compressing the root folder (only zip or rar is accepted). Any written tasks and submission questions that belong to the task are answered in Omniway.
+
 ## Part one
 
 1. Clone the excersise and open DevTools for warnings/errors. Correct the errors (meta tags). Ignore if JavaScript errors appears.
