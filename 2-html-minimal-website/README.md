@@ -155,13 +155,17 @@ Feel free to experiment with more awesome html element and attribute.
 > do only if you have time
 
 - [ ] Create a new file called drawing.html
+
 - [ ] Create the following elements
   - doctype
   - html
   - head
   - body
+
 - [ ] Place all necessary meta-tags inside the head, inkluding webbpage-name, description, etc
   - a header
   - a heading inside the header-element, with the text "A suggested logo"
+
 - [ ] Create a menu, with all the four other pages working (index, products, about, contact), and add drawing.html
+
 - [ ] Make a nice logo and add it to the page, with the use of the element svg, its children and their attributes. <https://www.w3schools.com/html/html5_svg.asp>
