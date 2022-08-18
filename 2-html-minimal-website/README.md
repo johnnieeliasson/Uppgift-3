@@ -6,6 +6,7 @@ The goal of the task is to create a small but, according to best practice, suffi
 
 ## General instructions
 1. Structure the web pages with semantic elements like header, nav, section, article, aside
+
 2. At least the following elements must be used:
     1. h1
     2. h2
@@ -13,16 +14,36 @@ The goal of the task is to create a small but, according to best practice, suffi
     4. a
     5. ul or dl
     6. table (with th, tr and td)
+
 3. There should be a form element, including the following sub-elements
     1. input (with submit, reset, text, checkbox /or radio values)
     2. select
     3. textarea
+
 4. At least one div element and span element
+
 5. At least one relevant comment per page
 
 Feel free to experiment with more awesome html element and attribute.
 
 > Do *not* use CSS or JavaScript for this task.
+
+## Additional general instructions
+
+1. This is a group effort, and as such uses github (and Live Share where appropriate).
+
+2. The teacher must be invited to your repo
+
+3. Your repo must include, in addition to all other files
+    1. README.md, where the website/project is described 
+    2. A file called logbook.md, a written account of who did what
+    3. Optional: .gitignore
+
+4. The entire task must be submitted in Omniway, by compressing the root folder (only zip or rar is accepted).
+
+5. Each group must also be prepared to present their work to the rest of the class
+
+> The entire task must be submitted in Omniway, by compressing the root folder (only zip or rar is accepted). Any written tasks and submission questions that belong to the task are answered in Omniway.
 
 ## Start-page
 
