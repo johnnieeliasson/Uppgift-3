@@ -5,25 +5,20 @@ Pathname: 2-html-small-webbsite
 The goal of the task is to create a small but, according to best practice, sufficient website with only html, where the architecture consists of a homepage and three subpages; index.html, products.html, about.html, contact.html
 
 ## General instructions
-1. Structure the web pages with semantic elements
-- <header>
-- <nav>
-- <section>
-- <article>
-- <aside>
+1. Structure the web pages with semantic elements like header, nav, section, article, aside
 2. At least the following elements must be used:
-- <a>
-- <p>
-- <h1>
-- <h2>
-- <ul> (optional <dl>)
-- <table> with <th>, <tr> and <td>
+    1. h1
+    2. h2
+    3. p
+    4. a
+    5. ul or dl
+    6. table (with th, tr and td)
 3. There should be a form element, including the following sub-elements
-- <input>, including submit, reset, text, checkbox /or radio values
-- <select>
-- <textarea>
-- At least one <div> element and <span> element
-- At least one relevant comment per page
+    1. input (with submit, reset, text, checkbox /or radio values)
+    2. select
+    3. textarea
+4. At least one div element and span element
+5. At least one relevant comment per page
 
 Feel free to experiment with more awesome html element and attribute.
 
