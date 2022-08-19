@@ -2,7 +2,7 @@
 
 Pathname: 4-animations-svg
 
-The aim of the exercise is to experiment with different graphical tools in CSS, properties like transform, transistion and animation. As an addition, it is also an opportunity to try using svg.
+The aim of the exercise is to understand the basics of how to create an responsive website. It is also an opportunity to experiment with different animattion tools in CSS like transform, transistion and animation, and also an opportunity to use svg.
 
 ## Additional general instructions
 
