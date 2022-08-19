@@ -1,0 +1,5 @@
+obj_eller_bin/
+.vscode/
+.vs/
+
+*.css
