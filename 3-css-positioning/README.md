@@ -20,7 +20,7 @@ The purpose of the task is to experiment with basic layout tools in css, such as
 
 5. Google fonts
 
-## Additional general instructions
+## Additional instructions
 
 1. This is a group effort, and as such uses github (and Live Share where appropriate).
 
@@ -31,11 +31,9 @@ The purpose of the task is to experiment with basic layout tools in css, such as
     2. A file called logbook.md, a written account of who did what
     3. Optional: .gitignore
 
-4. The entire task must be submitted in Omniway, by compressing the root folder (only zip or rar is accepted).
+4. Each group must also be prepared to present their work to the rest of the class
 
-5. Each group must also be prepared to present their work to the rest of the class
-
-> The entire task must be submitted in Omniway, by compressing the root folder (only zip or rar is accepted). Any written tasks and submission questions that belong to the task are answered in Omniway.
+> The entire task must be submitted in Omniway, by compressing the root folder (only zip or rar is accepted). Any written tasks and submission questions that belong to the task are answered in Omniway. Do *not* use JavaScript for this task.
 
 ## Part one
 
@@ -69,8 +67,6 @@ The purpose of the task is to experiment with basic layout tools in css, such as
 
 ## Part three
 
-7. Use your CSS-skills to make those webpages layout look like the wireframes you just made.
+7. Use your CSS-skills to make create at least the about.html so that the layout look like the wireframes you just made. Feel free to create it in whatever technology you consider suitable; grids, column layout, flex box, etc.
 
-Feel free to create the product gallery in whatever technology you consider suitable; grids, column layout, flex box, etc.
-
-Flex-box, on the other hand, **must be used** to create the gallery where pictures of the three (at least) employees are to be placed.
+Optional. If you decide to also create the products.html, then flex-box **must be used** to create the gallery where pictures of at least three employees are to be placed.
