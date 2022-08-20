@@ -26,7 +26,7 @@ Feel free to experiment with more awesome html element and attribute.
 3. Your repo shoul must include, in addition to all other files
     - a README.md, where the website/project is described
     - a file called logbook.md, a written account of who did what
-    - a .gitignore file
+    - optional: a .gitignore file
 
 Please, do *not* use CSS or JavaScript for this task.
 
