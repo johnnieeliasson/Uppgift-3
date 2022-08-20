@@ -15,23 +15,14 @@ Architecture and content must be built around *at least* the following subpages
 The site must / should
 
 1. show code separation according to best practice
-
 2. use elements and selectors according to best practice
-
 3. use semantic elements to build the layout
-
 4. include appropriate wireframes (included in a single folder called wireframes), alternatively inserted in an md file included in the project
-
 5. be responsive
-
 6. use bootstrap snippets
-
 7. take accessibility into account
-
 8. take search engine into account
-
 9. present overal a sufficiently good layout, exhibit code quality and be free of obvious bugs
-
 10. use tests where appropriate
 
 The group themselves decide what the website is aimed at, but it si recommende to focus on the business world or associations active in the business world. Examples can be various (fictitious) businesses, a trade association, or informative pages about a business concern.
