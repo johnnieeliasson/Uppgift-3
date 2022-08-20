@@ -12,6 +12,21 @@ Architecture and content must be built around *at least* the following subpages
 - contact.html
 - blog.html or news.html
 
+The site must
+
+show code separation according to best practice
+use elements and selectors according to best practice
+use semantic elements to build the layout
+include appropriate wireframes, which are included in a single folder called wireframes, alternatively inserted in an md file included in the project
+be responsive
+use bootstrap snippets
+take accessibility into account
+take search engine into account
+present overal a sufficiently good layout, exhibit code quality and be free of obvious bugs
+use tests where appropriate
+
+The group themselves decide what the website is aimed at, but it si recommende to focus on the business world or associations active in the business world. Examples can be various (fictitious) businesses, a trade association, or informative pages about a business concern.
+
 The website must display a sufficiently professional level for best practice on the Internet, in terms of content, layout and code quality.
 
 ## Grade G
@@ -35,9 +50,9 @@ Students may have to prove their knowledge in an oral examination individually i
 2. The teacher must be invited to your repo
 
 3. Your repo must include, in addition to all other files
-    - README.md, where the website/project is described
-    - A file called logbook.md, a written account of who did what
-    - A .gitignore file
+    - a README.md, where the website/project is described
+    - a file called logbook.md, a written account of who did what
+    - a .gitignore file
 
 4. Each group must also be prepared to present their work to the rest of the class
 
