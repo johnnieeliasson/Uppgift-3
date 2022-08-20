@@ -6,10 +6,6 @@ The purpose of the exercise is to understand basic html syntax, initially how a 
 
 Feel free to experiment with more awesome html element and attribute.
 
-## Additional general instructions
-
-The entire task must be submitted in Omniway, by compressing the root folder (only zip or rar is accepted).
-
 > Do *not* use CSS or JavaScript for this task.
 
 ## Startpage
