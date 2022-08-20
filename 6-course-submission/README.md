@@ -30,6 +30,7 @@ The group themselves decide what the website is aimed at, but it si recommende t
 The website must display a sufficiently professional level for best practice on the Internet, in terms of content, layout and code quality.
 
 ## Grade G
+
 All pages of the website must be created using wireframes, which are included in a single folder called wireframes, alternatively inserted in an md file included in the project.
 
 The website must be responsive satisfactory enough, use at least five bootstrap snippets and take some accessibility and search engine optimization into account. The page must show code separation according to best practice, use semantic elements and present a sufficiently good layout.
@@ -37,6 +38,7 @@ The website must be responsive satisfactory enough, use at least five bootstrap 
 The code must exhibit code quality and be free of obvious bugs. Tests have been used where appropriate.
 
 ## Grade VG
+
 In addition to what applies to the grade G, the following requirements must also be implemented.
 
 The student demonstrates in-depth knowledge and use of elements, selectors, responsiveness, Bootstrap, accessibility and search engine optimization. Animations are also used and in some relevant way. Some use of custom scalable vector graphics is present.
