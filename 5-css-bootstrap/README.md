@@ -2,7 +2,7 @@
 
 Pathname: 5-css-bootstrap
 
-The purpose with the exercise is by using various snippets, plugins and themes, the student will be able to understand and edit a website's CSS using Bootstrap. The aim is to test many  (or all) of bootstrap's possibilities, partly based on Bootsrap's own html code but also based on creating an own HTML skeleton which then uses Bootstrap.
+The purpose with the exercise is by using various snippets, plugins and themes, the student will be able to understand and edit a website's CSS using Bootstrap. The aim is to test many (or all) of bootstrap's possibilities, partly based on Bootsrap's own html code but also based on creating an own HTML skeleton which then uses Bootstrap.
 
 The group themselves decide what the website is aimed at, but it is recommended to focus on the business world or associations active in the business world. Examples can be various (fictitious) businesses, a trade association, or informative pages about a business concern.
 

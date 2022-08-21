@@ -12,7 +12,7 @@ Pathname: 1-html-first-page
 
 The purpose of the exercise is to understand basic html syntax, initially how a menu works and how a most basic architecture (two separeate html-files) of a traditional web page is built. It also provides the opportunity to experiment with user input via forms. The student is asked to use only html.
 
-## 2 HTML | a small webbsite
+## 2 HTML | a minimal webbsite
 
 Pathname: 2-html-small-webbsite
 
@@ -24,17 +24,17 @@ Pathname: 3-css-positioning
 
 The purpose of the task is to experiment with basic layout tools in css, such as the box model, column layout, multi-columns, margins, padding, the properties display, float, clear, etc. Since bootstrap mainly builds on flex-box, the exercise also includes a part where the ability to practice this tool is included.
 
-## 4 CSS | animations and the use of svg
+## 4 CSS | responsivness, animations and the use of svg
 
-Pathname: 4-animations-svg
+Pathname: 4-responsiv-anim-svg
 
-The aim of the exercise is to experiment with different graphical tools in CSS, properties like transform, transistion and animation. As an addition, it is also an opportunity to try using svg.
+The aim of the exercise is to understand the basics of how to create an responsive website. It is also an opportunity to experiment with different animattion tools in CSS like transform, transistion and animation, and also an opportunity to use svg.
 
 ## 5 CSS | bootstrap
 
 Pathname: 5-css-bootstrap
 
-Using various snippets, plugins and themes, the student will be able to understand and edit a website's CSS using Bootstrap.
+The purpose with the exercise is by using various snippets, plugins and themes, the student will be able to understand and edit a website's CSS using Bootstrap. The aim is to test many (or all) of bootstrap's possibilities, partly based on Bootsrap's own html code but also based on creating an own HTML skeleton which then uses Bootstrap.
 
 ## 6 HTML & CSS | course submission
 
